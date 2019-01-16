@@ -1,0 +1,14 @@
+body{
+    color: steelblue;
+}
+
+h1 {
+    font-family: sans-serif;
+    border: 20px solid green;
+    padding: 5px;
+}
+
+.holder-type {
+    color: orange;
+    margin-top: 10px;
+}
